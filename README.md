@@ -25,6 +25,3 @@ This project delves into the practical aspects of capturing and scrutinizing DNS
   - Dive into the details encapsulated within a DNS request packet.
   - Analyze the corresponding DNS response packet.
 
-## Collaborative Contribution
-
-This project invites contributions from individuals keen on exploring the dynamics of network analysis and DNS packet dissection. Whether you choose to explore, share insights, or enhance the project, your participation contributes to a richer understanding of DNS communication during routine web-surfing.
