@@ -4,6 +4,8 @@
 
 This project delves into the practical aspects of capturing and scrutinizing DNS (Domain Name System) packets associated with everyday web-surfing activities. By leveraging tools such as `nslookup` and `ipconfig`, we aim to provide a hands-on experience in uncovering the intricacies of communication between hosts and DNS servers during standard web browsing.
 
+![Tracing DNS using Wireshark](https://github.com/HR-Fahim/DNS-Tracing-and-HTTP-Packet-Sniffing-with-Wireshark/assets/66734379/32a8c59f-aa8e-4cbd-b98e-708bd915ad1b)
+
 ## Exploration Highlights
 
 - **Capture Methodology:** Employ Wireshark to intercept DNS packets generated as a result of web-surfing.
@@ -26,7 +28,3 @@ This project delves into the practical aspects of capturing and scrutinizing DNS
 ## Collaborative Contribution
 
 This project invites contributions from individuals keen on exploring the dynamics of network analysis and DNS packet dissection. Whether you choose to explore, share insights, or enhance the project, your participation contributes to a richer understanding of DNS communication during routine web-surfing.
-
-## Closing Insights
-
-Comprehending the practicalities of DNS packet capture and analysis is pivotal for effective network diagnostics. This project serves as a resource for those eager to unravel the nuances of DNS packets, offering valuable insights into the communication nuances between hosts and DNS servers during everyday web-browsing scenarios.
