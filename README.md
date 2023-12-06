@@ -31,6 +31,8 @@ This project delves into the practical aspects of capturing and scrutinizing DNS
 
 Throughout the development and implementation of this project, several key milestones have been successfully achieved, enhancing the overall capabilities and usability of the packet stream analysis tool. The following aspects highlight the completion of various project components:
 
+![Decoding HTTP Packets for Comprehensive Packet Stream Analysis](https://github.com/HR-Fahim/DNS-Tracing-and-HTTP-Packet-Sniffing-with-Wireshark/assets/66734379/8fd1e2e3-fc19-48ce-bedd-19b5c726bde3)
+
 ### 1. **Packet Filtering Implementation**
 
 The project has successfully implemented packet filtering functionality, allowing users to focus on specific IP addresses and filter out irrelevant traffic. The inclusion of a sample filter, such as `ip.addr == 216.58.213.99 and http`, enables users to pinpoint packets related to a particular IP address and HTTP communication.
@@ -42,7 +44,3 @@ Users can now easily inspect individual packets by clicking on them. This includ
 ### 3. **Packet Stream Tracking Feature**
 
 The project includes a packet stream tracking feature, allowing users to gain a holistic view of the communication between their system and the Google server. By right-clicking on any packet and selecting the follow menu, users can effortlessly track the entire packet stream, enhancing the overall analytical capabilities of the tool.
-
-## Acknowledgments
-
-The successful completion of this project is a result of collaborative efforts, contributions, and feedback from the open-source community. Contributions, bug reports, and suggestions for improvements are highly encouraged to make this tool even more robust and effective in the realm of packet stream analysis.
